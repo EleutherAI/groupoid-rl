@@ -21,4 +21,10 @@ Groupoids have an algebraic and a category theory definition. We focus on the al
 
 [4] [DeepCubeA](http://deepcube.igb.uci.edu/)
 
-[5] (Groupoids)[https://groupoids.org.uk/pdffiles/groupoidsurvey.pdf]
+[5] [Groupoids][https://groupoids.org.uk/pdffiles/groupoidsurvey.pdf]
+
+[6] [slide-15](https://cornellmath.wordpress.com/2008/01/27/puzzles-groups-and-groupoids/)
+
+[7] [Groebner Basis](https://yetanothermathblog.com/2013/12/07/grobner-bases-and-permutation-puzzles-according-to-martin-kreuzer/)
+
+[8] [Groupoid N-lab](https://ncatlab.org/nlab/show/groupoid)
