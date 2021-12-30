@@ -28,3 +28,7 @@ Groupoids have an algebraic and a category theory definition. We focus on the al
 [7] [Groebner Basis](https://yetanothermathblog.com/2013/12/07/grobner-bases-and-permutation-puzzles-according-to-martin-kreuzer/)
 
 [8] [Groupoid N-lab](https://ncatlab.org/nlab/show/groupoid)
+
+[9] [Groupoid Basis Hilbert Space] (https://arxiv.org/pdf/1907.09010.pdf)
+
+[10] [Slide-15 Groupoid Basis](https://www.mdpi.com/2073-8994/11/3/414)
