@@ -9,7 +9,22 @@ We believe that we can generalize this result from groups to groupoids.
 
 Groupoids have an algebraic and a category theory definition. We focus on the algebraic definition for this article.
 
+## Training
 
+Run
+
+```{python}
+python train.py
+```
+Both the state of the art resnet model from the DeepCubeA paper and our groupoid model will be trained.
+
+```mermaid
+graph LR
+A[python train.py] -- Trains both --> B((Groupoid Equivariant ))
+A --> C(Resnet)
+B --> D{Results and figures }
+C --> D
+```
 
 ## Slide-15
 
